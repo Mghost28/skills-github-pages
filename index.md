@@ -1,6 +1,6 @@
 ---
 ---
-
+<link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 <div class="apple-hero" markdown="1">
 <span class="apple-badge">⚛️ BLACKBURN NODE · ONLINE</span>
 
